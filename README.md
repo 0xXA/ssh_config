@@ -71,7 +71,7 @@ the `ssh_config` manpage. Unimplemented features should be present in the
 
 Notably, the `Match` directive is currently unsupported.
 
-[issues]: https://github.com/kevinburke/ssh_config/issues
+[issues]: https://github.com/0xXA/ssh_config/issues
 
 ## Errata
 
